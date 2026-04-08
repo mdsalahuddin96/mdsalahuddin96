@@ -30,8 +30,6 @@ I am a passionate **Full Stack Developer** specializing in building modern web a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsalahuddin96&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsalahuddin96&theme=radical" alt="GitHub Streak" />
   <br>
 </p>
