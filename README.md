@@ -3,7 +3,9 @@
 <p align="center">
   <img width="1792" height="592" alt="Banner" src="https://github.com/user-attachments/assets/6a9150da-d274-4fa1-89e1-c9f72db739e0" />
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+GitHub!;I+love+building+web+applications;React+%7C+JavaScript+%7C+MERN+Developer;Always+learning+new+technologies" />
+</p>
 ## 👨‍💻 About Me
 I am a passionate **Full Stack Developer** specializing in building modern web applications using the MERN stack. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to create scalable IoT systems and seamless user experiences.
 
