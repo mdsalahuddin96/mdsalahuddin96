@@ -12,7 +12,7 @@
 
 I am a passionate **Full Stack Developer** specializing in building modern web applications using the MERN stack. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to create scalable IoT systems and seamless user experiences.
 
-- 🔭 I’m currently working on a **Play Store** project. 
+- 🔭 I’m currently working on a **Keen Keeper** project. 
 - 🌱 I’m currently learning and exploring **Next.js** and advanced **React.js**.
 - ⚡ My motto: **Learning Every Day**.
 
