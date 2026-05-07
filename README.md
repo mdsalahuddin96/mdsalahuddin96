@@ -12,8 +12,8 @@
 
 I am a passionate **Full Stack Developer** specializing in building modern web applications using the MERN stack. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My goal is to create scalable IoT systems and seamless user experiences.
 
-- 🔭 I’m currently working on a **Dragon news** project. 
-- 🌱 I’m currently learning and exploring **Next.js**, **Mongodb** and advanced **React.js**.
+- 🔭 I’m currently working on a **Tiles Gallery** project. 
+- 🌱 I’m currently learning and exploring **Node.js**, **Mongodb** and advanced **Next.js**.
 - ⚡ My motto: **Learning Every Day**.
 
 ---
